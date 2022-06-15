@@ -34,8 +34,6 @@ Slika vezja:
 
 
 
-Programska koda projekt:
-
 
 
 
