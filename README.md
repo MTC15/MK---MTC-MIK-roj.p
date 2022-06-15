@@ -35,8 +35,16 @@ Slika vezja:
 
 
 
+Videoposnetek delovanja:
 
 
+
+
+https://user-images.githubusercontent.com/97598894/173775031-925a5fe5-35a4-4836-8981-bb6cd2c8eafa.mp4
+
+
+Komentar na delovanje:
+Program deluje v programskem jeziku C++, s pomočjo arduina,  LED-diod in keypad tipkovnice sva sprogramirala električno ključavnico. Deluje s pritiskom kode (2248) ki sproži signal za odklenitev ključavnice ( v tem primeru z zeleno LED-diodo). Če vtipkamo napačno kodo se signal ne sproži in vrne program v prvotno stanje.
 
 
 
