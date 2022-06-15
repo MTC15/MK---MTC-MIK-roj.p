@@ -14,6 +14,7 @@ upor 220E
 
 Priredbeni seznam:
 
+![image](https://user-images.githubusercontent.com/97598894/173774028-1476724b-74fe-4a5c-b422-83b7de21cc2b.png)
 
 
 
@@ -31,7 +32,6 @@ Slika vezja:
 
 
 ![20220615_085613](https://user-images.githubusercontent.com/97598894/173763056-f0a592fe-f7a8-43d1-b8a1-975bd0ba2b4e.jpg)
-
 
 
 
